@@ -9,7 +9,7 @@
 import pandas as pd
 import string
 
-f = open("p022_names.txt", 'r')
+f = open("names.txt", 'r')
 names = sorted(f.read().replace('"','').split(','), key=str)
 total_score = 0
 
