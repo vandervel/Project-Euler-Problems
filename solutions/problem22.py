@@ -21,7 +21,7 @@ for i in alpha_scores:
     alpha_scores[i] += 1
     
 
-def letter_score(name, scores):
+def letter_score(name):
     
     scr = 0
     name_len = len(name)
