@@ -1,4 +1,4 @@
-# Number of sundays that fell on the first of the month in the twentieth century.
+# Number of sundays that landed on the first of the month in the twentieth century.
 
 
 months = [31,
